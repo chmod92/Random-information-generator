@@ -19,7 +19,6 @@ with open("C:\\Temp\\gen-data.csv", "w",newline='') as csvFile: # May have to ch
         for i in range(count):
 
             first_names=(
-                'John',
                 'Andy',
                 'Joe',
                 "Sophia",
